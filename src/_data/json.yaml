@@ -1,0 +1,49 @@
+- key: description
+  value:
+    - hello
+    - this is my tiny landing page
+    - please feel free to look at my cv
+
+- key: contact
+  value: 
+    - key: name
+      value: leuan jaymz edmonds
+    - key: email
+      value: leuan.edmonds@gmail.com
+      url: "mailto:leuan.edmonds@gmail.com"
+
+- key: cv
+  value: cv.pdf
+  url: ./cv.pdf
+
+- key: profiles
+  value: 
+    - value: git
+      url: https://github.com/ledmonds
+    - value: linkedin
+      url: https://www.linkedin.com/in/leuan-edmonds-32684271/
+
+- key: expirence
+  value:
+    - value: Software Engineer at Tiplu GmbH
+      url: https://tiplu.de/
+    - value: Web Developer at DaviesMeyer GmbH
+      url: https://daviesmeyer.com/
+    - value: Senior Digital Forensic Analyst at PricewaterhouseCoopers
+      url: https://www.pwc.co.nz/
+
+- key: certifications
+  value:
+    - value: iSAQB CPSA-F
+      url: https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/
+    - value: Docker Master 
+      url: https://www.udemy.com/course/docker-mastery/
+
+- key: education
+  value: BSc CS
+  url: https://www.massey.ac.nz/study/all-qualifications-and-degrees/bachelor-of-science-UBSCN/computer-science-UBSCN2JCMSC1/
+
+- key: publications
+  value:
+    - value: Accelerometer and Spatial-Orientation Interfaces to Maze Games on Tablets and Mobile Devices
+      url: http://worldcomp-proceedings.com/proc/p2013/ICM7317.pdf

@@ -1,0 +1,20 @@
+title: ledmonds
+description: ledmonds cv website
+url: https://ledmonds.com/
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+
+newtab: true
+lowercase: true
