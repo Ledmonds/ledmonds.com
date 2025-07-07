@@ -25,22 +25,28 @@
 
 - key: expirence
   value:
+    - value: Senior Software Engineer at Tiplu GmbH
+      url: https://tiplu.de/
     - value: Software Engineer at Tiplu GmbH
       url: https://tiplu.de/
     - value: Web Developer at DaviesMeyer GmbH
       url: https://daviesmeyer.com/
     - value: Senior Digital Forensic Analyst at PricewaterhouseCoopers
       url: https://www.pwc.co.nz/
+    - value: Digital Forensic Analyst at PricewaterhouseCoopers
+      url: https://www.pwc.co.nz/
 
 - key: certifications
   value:
-    - value: iSAQB CPSA-F
+    - value: iSAQB CPSA-A – Domain Driven Design (in-progress)
+      url: https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/ddd-domain-driven-design/
+    - value: iSAQB CPSA-F – Software Architecture Foundation (2023)
       url: https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/
-    - value: Docker Master 
+    - value: Docker Master (2022)
       url: https://www.udemy.com/course/docker-mastery/
 
 - key: education
-  value: BSc CS
+  value: Bachelor of Computer Science (Software Engineering)
   url: https://www.massey.ac.nz/study/all-qualifications-and-degrees/bachelor-of-science-UBSCN/computer-science-UBSCN2JCMSC1/
 
 - key: publications
